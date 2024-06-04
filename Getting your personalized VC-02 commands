@@ -1,0 +1,15 @@
+Open voice.ai-thinker.com<br/>
+Register
+Login
+Create a new product
+Select product category as lamps
+Select the kind of lamp you are using(Ceiling lamp
+Select scene as Offline module
+Select your module as VC-02
+Give a name to your product and select language as english 
+For my project i did not require any front end signal processing so i didnt change the default settings
+In pin configuration Pin 1 and 2 are to be set to GPIO-B1/0
+You can change or add wakeup words
+You can change or add replies for wake up words
+Add command words for TurnOn and TurnOff
+Customise the reply words for the behaviour
