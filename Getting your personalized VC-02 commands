@@ -18,3 +18,8 @@ Build SDk and wait for 10-30 minutes
 Download firmware
 Go to https://docs.ai-thinker.com/en/voice_module
 And download UART Burning tool
+Follow steps 7,8,9.
+Press the reset button after step-9
+The code will be dumped into your VC-02 board
+Connect the components and give your commands to see the required output
+
